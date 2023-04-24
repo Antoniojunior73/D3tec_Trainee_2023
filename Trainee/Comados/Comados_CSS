@@ -1,0 +1,61 @@
+/*
+ *  Lista de exemplos de comandos CSS.
+*/
+{
+ color /* Define a cor do texto*/
+ font-size/* Define o tamanho da fonte do texto*/
+ font-family/* Define a família de fontes para o texto*/
+ font-weight/* Define a espessura da fonte do texto*/
+ text-align /* Define o alinhamento do texto (esquerda, direita, centralizado, justificado)*/
+ background-color/* Define a cor de fundo de um elemento*/
+ background-image/* Define uma imagem de fundo para um elemento*/
+ border/* Define a borda de um elemento (largura, estilo e cor)*/
+ margin/* Define as margens externas de um elemento*/
+ padding/* Define as margens internas de um elemento*/
+ width/* Define a largura de um elemento*/
+ height/* Define a altura de um elemento*/
+ display/* Define como um elemento é exibido (bloco, inline, inline-block, etc*)*/
+ position/* Define a posição de um elemento (estático, relativo, absoluto, fixo)*/
+ float/* Define o posicionamento de um elemento em relação a outros elementos flutuantes*/
+ clear/* Define como um elemento deve se comportar em relação a elementos flutuantes*/
+ overflow/* Define o comportamento de overflow de um elemento quando o conteúdo é maior do que o tamanho do elemento*/
+ text-decoration/* Define a decoração de texto (sublinhado, tachado, etc)*/
+ cursor/* Define o tipo de cursor do mouse quando passa sobre um elemento*/
+ opacity/* Define a opacidade de um elemento*/
+ text-transform/* Define a transformação de texto (maiúsculas, minúsculas, capitalização, etc)*/
+ text-shadow/* Define a sombra do texto*/
+ box-shadow/* Define a sombra de um elemento*/
+ border-radius/* Define o raio dos cantos de um elemento*/
+ outline/* Define o contorno de um elemento*/
+ z-index/* Define a ordem de empilhamento de elementos*/
+ opacity/* Define a transparência de um elemento*/
+ transition/* Define a transição de propriedades de um elemento*/
+ transform/* Define transformações 2D ou 3D em elementos*/
+ animation/* Define animações em elementos*/
+ box-sizing/* Define como o tamanho de um elemento é calculado*/
+ text-overflow/* Define como o texto deve ser exibido quando ultrapassa o espaço disponível*/
+ word-wrap/* Define como as palavras longas devem ser quebradas em várias linhas*/
+ white-space/* Define como os espaços em branco dentro de um elemento são tratados*/
+ vertical-align/* Define o alinhamento vertical de elementos em relação a outros elementos*/
+ user-select/* Define se o texto em um elemento pode ser selecionado pelo usuário*/
+ list-style-type/* Define o estilo do marcador de lista*/
+ position/* sticky/* Define um elemento como "grudento", que fica fixo em uma posição específica quando a página é rolada*/
+ box-decoration-break/* Define como a decoração de uma caixa de elemento é quebrada em várias linhas*/
+ object-fit/* Define como uma imagem ou vídeo deve se ajustar dentro de seu contêiner*/
+ object-position/* Define a posição horizontal e vertical de uma imagem ou vídeo dentro de seu contêiner*/
+ resize/* Define se um elemento pode ser redimensionado pelo usuário*/
+ cursor/* Define o estilo do cursor do mouse quando passa sobre um elemento*/
+ filter/* Define efeitos visuais em elementos, como desfoque, brilho, saturação, etc*/
+ backdrop-filter/* Define efeitos visuais no plano de fundo de um elemento*/
+ will-change/* Informa ao navegador que um elemento será alterado, permitindo otimizações de desempenho*/
+ display/* Define como um elemento é exibido, como bloco, em linha, em linha-block, etc*/
+ float/* Define o posicionamento de um elemento em relação a outros elementos*/
+ clear/* Define como um elemento deve se comportar em relação a elementos flutuantes*/
+ pointer-events/* Define como um elemento deve responder a eventos do mouse e toque*/
+ backface-visibility/* Define a visibilidade do lado de trás de um elemento em transformações 3D*/
+ column-count/* Define o número de colunas em um elemento com layout de várias colunas*/
+ column-gap/* Define o espaçamento entre colunas em um elemento com layout de várias colunas*/
+ column-rule/* Define a largura, estilo e cor da regra entre colunas em um elemento com layout de várias colunas*/
+ hyphens/* Define como as palavras longas devem ser divididas em várias linhas*/
+ overflow/* Define como o conteúdo de um elemento deve se comportar quando ultrapassa o tamanho do elemento*/
+/**/}
